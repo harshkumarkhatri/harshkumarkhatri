@@ -27,6 +27,7 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
 - 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
+- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
