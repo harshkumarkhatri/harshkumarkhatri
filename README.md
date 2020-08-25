@@ -7,7 +7,9 @@
 
 I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
 ## 👯 Communities
-* Microsoft Student Partner
+* DSC Lead
+* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
+* Microsoft Student Learn Ambassador(MSP/MLSA)
 * Deeplearning.ai event ambassador
 * Management Team Lead at Voice Of Code
 * CSE Club at CPU
